@@ -1,0 +1,60 @@
+/***TEXT***/
+body{
+    display:block;
+    background-image: url(../assets/img/henry-be-TCsCykbwSJw-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:beige;
+    font-family:'Gill Sans', 'Gill Sans MT', cursive;
+}
+h1 {
+    text-align: center;
+    background-color:rgba(63, 41, 15, 0.75);
+}
+.header{
+    top: 0px;
+    display: block;
+    margin: auto;
+    font-size: 80px;
+    font-weight:bolder;
+    font-family:'Brush Script MT','URW Chancery L', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', fantasy;
+    width: 100%;
+    text-align: center;
+    background-color:rgba(63, 41, 15, 0.75);
+}
+.centered-text {
+    text-align: center;
+}
+
+/***ANCHOR***/
+a{
+    color:bisque;
+    text-align:center;
+    text-decoration: none;
+}
+a:visited{ 
+    color:bisque;
+}
+a:hover{
+    color: whitesmoke;
+}
+
+
+/***IMAGE***/
+img{
+    display: block;
+    width: 30%;
+    border: solid bisque 2px;
+    padding: 5px;
+    margin: auto;
+}
+.centered-image{
+    display: block;
+    margin: auto;
+}
+
+/***OTHER***/
+.tableaustyle{
+    margin: auto;
+    display: block;
+}
